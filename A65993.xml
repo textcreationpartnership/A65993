@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A choice drop of honey from the rock Christ, or, A short word of advice to all Christians of what perswasion soever in order to a thorough reformation / by T.W.</title>
+            <author>T. W. (Thomas Wilcox), 1622-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65993</idno>
+            <idno type="STC">Wing W2119A</idno>
+            <idno type="STC">ESTC R26362</idno>
+            <idno type="EEBO-CITATION">09440395</idno>
+            <idno type="OCLC">ocm 09440395</idno>
+            <idno type="VID">43109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1320:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A choice drop of honey from the rock Christ, or, A short word of advice to all Christians of what perswasion soever in order to a thorough reformation / by T.W.</title>
+                  <author>T. W. (Thomas Wilcox), 1622-1687.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fifth edition.</edition>
+               </editionStmt>
+               <extent>21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by B. Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43109:1"/>
+            <pb facs="tcp:43109:1"/>
+            <p>A Choice Drop OF HONEY From The ROCK CHRIST. OR, A Short Word of Advice to all Chriſtians, of what Perſwaſion ſoever, in order to a thorough <hi>Reformation.</hi>
+            </p>
+            <p>By <hi>T.W.</hi> late Preacher of the Goſpel.</p>
+            <p>The Fifth Edition.</p>
+            <q>
+               <bibl>
+                  <hi>Deut. 32.31.</hi>
+               </bibl>
+               <p>For their Rock is not as our Rock, even our Enemies themſelves being Judges.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>B. Harris,</hi> at the <hi>Golden-Boar's-head</hi> againſt the <hi>Croſs-Keys Inn</hi> in <hi>Grace-church-ſtreet,</hi> and at the corner of <hi>Grace-church-ſtreet,</hi> next <hi>Cornhill.</hi> 1699</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43109:2"/>
+            <pb facs="tcp:43109:2"/>
+            <head>A Short Word of Advice to all Chriſt<g ref="char:EOLhyphen"/>ians, <hi>&amp;c.</hi>
+            </head>
+            <p>A Word of Advice to my own Heart and thine; thou profeſſeth Baptiſm, Church-fellowſhip; thou doſt well, they are glorious Ordinances; But if thou haſt not the Blood of Chriſt at the Root of thy Profeſſion, it will wither and prove but painted Pageantry to go to Hell in.</p>
+            <p>If thou retain Guilt, Self-righteouſneſs under it, thoſe Vipers will eat out all the Vitals of it at length. Try and examine with greateſt ſtrictneſs every day, what bottom thy Profeſſion and Hope of Glory is built upon, whether it was laid by the hand of Chriſt; if not, it will never be able to endure the ſtorm that muſt come againſt it. Satan will throw it all down and great ſhall be the fall thereof, <hi>Mat.</hi> 7.27.</p>
+            <p>Glorious Profeſſor, thou ſhalt be winnow<g ref="char:EOLhyphen"/>ed: Every vein of thy Profeſsion will be tried to purpoſe: Terrible, to have it all come tum<g ref="char:EOLhyphen"/>bling down, and to find nothing but it to bottom upon.</p>
+            <p>Soaring Profeſſor, ſee to thy waxen Wings betimes, which will melt with the heat of Temp<g ref="char:EOLhyphen"/>tations. What a miſery to Trade much and break at length, and have no Stock, no Foun<g ref="char:EOLhyphen"/>dation laid for Eternity, in thy Soul?</p>
+            <p>Gifted Profeſſor, look there be not a worm at the root that will ſpoil all thy ſine Goard, and make it die about thee in a day of Scorchings. Look over thy Soul daily, and ask, where is the Blood of Chriſt to be ſeen upon my Soul?
+<pb facs="tcp:43109:3"/>what Righteouſneſs is it that I ſtand upon to be ſaved by? Have I got off all my Self-righte<g ref="char:EOLhyphen"/>ouſneſs? Many eminent Profeſſors, have come at length to cry out, in the ſights of the ruin of all their duties, Undone, Undone to all Eternity.</p>
+            <p>The greateſt ſins may be hid under the great<g ref="char:EOLhyphen"/>eſt duties, and the greateſt terrors: See the wound that ſin hath made in thy ſoul, be perfect<g ref="char:EOLhyphen"/>ly cured by the blood of Chriſt, not skinned o<g ref="char:EOLhyphen"/>ver with duties, humblings, enlargements, <hi>&amp;c.</hi> Apply what thou wilt beſides the blood of Chriſt it will poiſon the ſore. Thou wilt find that ſin was never mortified truly; that thou haſt not ſeen Chriſt bearing for thee upon the Croſs: Nothing can kill it but the beholdings of Chriſt's Righteouſneſs.</p>
+            <p>Nature can afford no balſam fir for ſoul-cure. Healing from duty, and not from Chriſt is the moſt deſperate diſeaſe. Poor ragged nature, with all its higheſt improvements, can never ſpin a garment fine enough (without ſpot) large e<g ref="char:EOLhyphen"/>nough (without patches) to cover the ſoul's na<g ref="char:EOLhyphen"/>kedneſs. Nothing can fit the ſoul for that uſe but Chriſt's perfect Righteouſneſs. Whatſo<g ref="char:EOLhyphen"/>ever is of nature's ſpinning muſt be all unravel<g ref="char:EOLhyphen"/>led before the Righteouſneſs of Chriſt can be put on. Whatſoever is of nature's putting on, ſatan will come and plunder every rag away, and leave the ſoul naked and open to the wrath of God. All that nature can do will never make up the leaſt dram of Grace that can mortify ſin, or look Chriſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the face one day.</p>
+            <p>Thou art a Profeſſor, art baptized, goes on hearing, and praying, and receiving, yet miſe<g ref="char:EOLhyphen"/>rable mayſt thou be. Look about thee, didſt thou ever yet ſee Chriſt to this day in diſtinction
+<pb facs="tcp:43109:3"/>from all other excellencies and righteouſneſs <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the world, and all of them falling before his Ma<g ref="char:EOLhyphen"/>jeſty and Grace, Iſa. 2.17.</p>
+            <p>If thou haſt ſeen Chriſt truly, thou haſt ſeen pure Grace, pure Righteouſneſs in him, every way infinite, far exceeding all ſin and miſery. If thou haſt ſeen Chriſt thou canſt trample upon all the righteouſneſs of men and angels, ſo as to bring thee into acceptation with God. If thou haſt ſeen Chriſt, thou wouldſt not do a duty without him for ten thouſand worlds, 1 <hi>Cor.</hi> 2.2. If ever thou didſt ſee Chriſt, thou didſt ſee him a Rock higher than ſelf righteouſneſs, ſatan, ſin, <hi>Pſal.</hi> 61.2. and that Rock doth follow thee, 1 <hi>Cor.</hi> 10.4. And there will be continual drops of Honey and Grace out of that Rock to ſatisfy thee, <hi>Pſal.</hi> 81.16. Examine if ever thou be<g ref="char:EOLhyphen"/>held Chriſt as the only begotten of the Father, full of grace and truth, <hi>Joh.</hi> 1.14.16.17. Be ſure thou art come thou art come, to Chriſt, that thou ſtand upon the Rock of ages, haſt anſwered his call to thy ſoul, haſt cloſed with him for Juſtification.</p>
+            <p>Men talk bravely of be lieving, (whilſt whole and found) few know it. Chriſt is the myſtery of the ſcripture; Grace the myſtery of Chriſt. Believing is the moſt wonderful thing in the world. Put any thing of thine own to it, and thou ſpoileſt it; Chriſt will not ſo much as look at it for believing. When thou believeſt, and comes to Chriſt, thou muſt leave behind thee thy own righteouſneſs, and bring nothing but thy ſin, O that is hard, leave behind all thy ho<g ref="char:EOLhyphen"/>lineſs, Sanctifications, duties, humblings, &amp;c. and bring nothing but thy wants and miſeries, elſe Chriſt is not t for thee, nor thou for Chriſt. Chriſt will be a pure Redeemer and Mediator.
+<pb facs="tcp:43109:4"/>and thou muſt be a pure ſinner, or Chriſt and thou wilt never agree: It's the hardeſt thing in the world to take Chriſt alone for righteouſ<g ref="char:EOLhyphen"/>neſs; that is to acknowledge him Chriſt, Join any thing to him of thy own and thou Un-Chriſt's him.</p>
+            <p>Whatever comes in when thou goeſt to God for acceptation, (beſides Chriſt) call it Anti-Chriſt, bid it be gone; make only Chriſt's righ<g ref="char:EOLhyphen"/>teouſneſs triumphant; all beſides that is <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi> which muſt fall, if Chriſt ſtand, and thou ſhalt rejoyce in the day of the fall thereof, <hi>Iſa.</hi> 1.10.11.12. Chriſt alone did tread the wine<g ref="char:EOLhyphen"/>preſs, and there was none with him, <hi>Iſa.</hi> 63.3. If thou join to any thing but Chriſt, Chriſt will trample upon it in ſury and anger, and ſtain his raiment with the blood thereof. Thou thinkſt it eaſy to believe; was ever thy faith tryed with an hour of temptations, and a thorough ſight of ſin? was it ever put to grapple with Satan, and the wrath of God lying upon the Conſcience: when thou waſt in the mouth of hell and the grave, then did God ſhew thee Chriſt a ran<g ref="char:EOLhyphen"/>ſome, a righteouſneſs, &amp;c. Then couldſt thou ſay, O I ſee grace enough in Chriſt; thou mayſt ſay that which is the biggeſt word in the world Thou believeſt. Untryed faith is uncertain faith.</p>
+            <p>To believing there muſt be a clear conviction of ſin, and of the merits of the blood of Chriſt, and of Chriſt's willingneſs to ſave upon this conſideration meerly, that thou art a ſinner; things all harder than to make a world. All the power in nature cannot get up ſo high in a ſtorm of ſin and guilt as really to believe there is any grace, any willingneſs in Chriſt to ſave. When ſatan chargeth ſin upon the conſcience, then the ſoul to charge it upon Chriſt, that is Goſpel-like,
+<pb facs="tcp:43109:4"/>that is to make him Chriſt, he ſerves for that uſe. To accept Chriſt's righteouſneſs alone his blood alone for Salvation. That is the ſum of the Goſpel, when the ſoul in all duties and diſtreſſes can ſay, Nothing but Chriſt, Chriſt a<g ref="char:EOLhyphen"/>lone for righteouſneſs, juſtification, Sanctificati<g ref="char:EOLhyphen"/>on, Redemption, 1 <hi>Cor.</hi> 1.30. Not humblings, not duties, not Graces, &amp;c. That Soul hath got above the reach of the billows.</p>
+            <p>For all temptations, ſatan's advantages, our complainings are laid in ſelf-righteouſneſs, and ſelf-excellency, God purſueth theſe, by ſetting ſatan upon thee, as <hi>Laban</hi> did <hi>Jacob</hi> for his I<g ref="char:EOLhyphen"/>mages which <hi>Rachel</hi> hid, <hi>Gen.</hi> 31. theſe muſt be torn from thee, be as willing as thou wilt, theſe hinder Chriſt from coming in, and till Chriſt come in, guilt will not go out, and where guilt is, there is hardneſs of heart, and therefore much guilt argues little, if any thing of Chriſt's blood, that will tend to hardning. Make Chriſt thy Peace, <hi>Eph.</hi> 2.14. not thy duties, thy tears, &amp;c. Chriſt thy righteouſneſs, not thy graces, &amp;c. Thou mayſt deſtroy Chriſt by du<g ref="char:EOLhyphen"/>ties, as well as by ſins. Look at Chriſt, and do as much as thou wilt. Stand with all thy weight upon Chriſt's righteouſneſs; take heed of hav<g ref="char:EOLhyphen"/>ing one foot on thy own righteouſneſs, another on Chriſt's. Till Chriſt come and fit on high upon a throne of grace, in the conſcience, there is nothing but guilt, terrors, ſecret ſuſpicions, the ſoul hanging between hope and fear, which is an un-goſpel like State.</p>
+            <p>He that fears to ſee ſin's utmoſt vileneſs, the utmoſt hell of his own heart, he ſuſpects the merits of Chriſt. Be thou never ſuch a great ſinner, 1 <hi>John,</hi> 2.1. try Chriſt to make him thy advocate, and thou ſhalt find him Jeſus Chriſt the
+<pb facs="tcp:43109:5"/>Righteous: In all doubtings, fears, ſtorms of conſcience, look at Chriſt continually. Do not argue it with ſatan, (he deſires no better) bid him go to Chriſt, and he will anſwer him, it is his office as he is our Advocate, 1 <hi>John.</hi> 2.1 his office to anſwer law, as our ſurety, <hi>Heb.</hi> 7.22. his office to anſwer juſtice, as our Media<g ref="char:EOLhyphen"/>tor, <hi>Gal.</hi> 3.20. 1 <hi>Tim.</hi> 2.5. and he ſworn to that office, <hi>Heb.</hi> 7.20.21. Put Chriſt upon it; if thou wilt do any thing thy ſelf, as to ſa<g ref="char:EOLhyphen"/>tisfaction for ſin, thou renounceth Chriſt the righteous, who was made ſin for thee, 2 <hi>Cor</hi> 2.21.</p>
+            <p>Satan may alledge, and corrupt ſcripture, but he cannot anſwer ſcripture. Its Chriſt's Word of mighty authority, Chriſt foyled Satan with it, <hi>Mat.</hi> 4. In all the ſcripture there is not an ill word againſt a poor ſinner ſtript of ſelf-righteouſneſs; nay, it plentifully points out this man to be the ſubject of the grace of the Goſpel, and none elſe. Believe but Chriſt's willing<g ref="char:EOLhyphen"/>neſs, and that will make thee willing. If thou findeſt thou canſt not believe, remember its Chriſt's work to make thee believe; put him upon it, he works to will and do of his good pleaſure, <hi>Phil.</hi> 2.13. Mourn for thy unbelief, which is a ſetting up guilt in the conſcience a<g ref="char:EOLhyphen"/>bove Chriſt, an undervaluing the merits of Chriſt, accounting his blood an unholy, a com<g ref="char:EOLhyphen"/>mon, and unſatisfying thing.</p>
+            <p>Thou complaineſt much of thy ſelf; doth thy ſin make thee look more at Chriſt, leſs at ſelf? That's right, elſe complaining is but hypocriſy. To be looking at duties, graces, enlargements, when thou ſhouldſt be looking at Chriſt; that's pityful: Looking at them will but make thee proud, looking at Chriſt's grace will make thee humble. By grace you are ſaved <hi>Eph.</hi>
+               <pb n="8" facs="tcp:43109:5"/>2.5. In all thy temptations be not diſcoura<g ref="char:EOLhyphen"/>ged, <hi>Jam.</hi> 1.2. thoſe <hi>Surges</hi> may not be to break thee, but to heave thee off thy ſelf on to the Rock Chriſt.</p>
+            <p>Thou mayſt be brought low, even to the brink of hell, ready to tumble in; thou canſt not be brought lower than to the belly of Hell, many Saints have been there, even dowced in hell, yet there mayſt thou cry, there mayſt thou look to<g ref="char:EOLhyphen"/>wards the holy Temple, <hi>Jonah,</hi> 24. Into that Temple none might enter but purified ones, and with an offering too, <hi>Acts,</hi> 21.26. But now Chriſt is our Temple, Sacrifice, Altar, High-prieſt, to whom none muſt come but ſinners, and that without any offering, but his own blood once offered, Heb. 7.27. Remember all the patterns of grace that are in heaven. Thou thinkſt, O what a monument of grace wouldſt thou be: there are many thouſands as rich mo<g ref="char:EOLhyphen"/>numents as thou be. The greateſt ſinner did never oppoſe the grace of Chriſt, do not deſ<g ref="char:EOLhyphen"/>pair: Hope ſtill, when the clouds at blackeſt, even then look towards Chriſt, the ſtanding Pil<g ref="char:EOLhyphen"/>lar of the Father's love and grace, ſet up in heaven, for all finners to gaze upon continually. VVhatſoever ſatan or conſcience ſays, do not conclude againſt thy ſelf. Chriſt ſhall have the laſt word, he is the Judge of quick and dead, and muſt pronounce the final ſentence, his blood ſpeaks reconciliation, <hi>Col.</hi> 1.20. clean<g ref="char:EOLhyphen"/>ſing, 1 <hi>John,</hi> 1.7. purchaſe, <hi>Acts,</hi> 20.28. redemp<g ref="char:EOLhyphen"/>tion, 1 <hi>Pet.</hi> 1.19. purging, <hi>Heb.</hi> 9.13.14. re<g ref="char:EOLhyphen"/>miſſion, <hi>v.</hi> 20. liberty, <hi>Heb.</hi> 10.10. juſtifica<g ref="char:EOLhyphen"/>tion, <hi>Rom.</hi> 5.9. nighneſs to God, <hi>Eph.</hi> 2.13. Not a drop of this blood ſhall be loſt. Stand and hearken what God will ſay; for he will ſpeak peace to his people, that they return no
+<pb facs="tcp:43109:6"/>more to folly, <hi>Pſal.</hi> 85.8. He ſpeak; grace, mercy and peace, 2 <hi>Tim.</hi> 1.2. That's the lan<g ref="char:EOLhyphen"/>guage of the father and of Chriſt. Wait for Chriſt's appearing, as the morning ſtar, <hi>Rev.</hi> 22.19. He ſhall come as certainly as the mor<g ref="char:EOLhyphen"/>ning, as refreſhingly as the rain, Hoſ. 6.3.</p>
+            <p>The ſun may as well be hindered from riſing as Chriſt the ſun of righteouſneſs, <hi>Mal.</hi> 4.2. Look not a moment off Chriſt. Look not up<g ref="char:EOLhyphen"/>on ſin; but look upon Chriſt firſt: When thou mourneſt for ſin, if thou doſt not ſee Chriſt, a<g ref="char:EOLhyphen"/>way with it, Zach. 12.10 In every duty, look at Chriſt before duty, to pardon. In duty, to aſſiſt. After duty, to accept; without this it is but carnal, careleſs duty. Do not legalize the goſpel, as if part did remain to thee to do and ſuffer, and Chriſt were but an half Mediator; and thou muſt bear part of thy own ſin; make part ſatisfaction. Let ſin break thy heart, but not hope in the Goſpel.</p>
+            <p>Look more at juſtification than ſanctification. In the higheſt commands conſider Chriſt, not as an exactor to require, but a debtor, an under<g ref="char:EOLhyphen"/>taker, to work. If thou haſt looked at work<g ref="char:EOLhyphen"/>ings, duties, qualifications, and ſuch like, more than at the merits of Chriſt, it will coſt the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dear; no wonder thou goeſt complaining. Gra<g ref="char:EOLhyphen"/>ces may be evidences, the merits of Chriſt, (on<g ref="char:EOLhyphen"/>ly without them) muſt be the foundation of thy hope to bottom on. Chriſt only can be the hope of glory, <hi>Col.</hi> 1.27.</p>
+            <p>When we come to God, we muſt bring no<g ref="char:EOLhyphen"/>thing but Chriſt with us. Any ingredients of our own qualifications, will poiſon and corrupt faith; he that builds upon duties, graces, and the like, knows not the merits of Chriſt. This makes believing ſo hard, ſo far above nature;
+<pb n="9" facs="tcp:43109:6"/>if thou believeſt thou muſt renounce (as dung and droſs, <hi>Phil.</hi> 3.7.8.) thy priviledges, thy obedience, thy Baptiſm, thy Sanctification, thy Duties, thy Graces, thy Tears, Meltings, thy Humblings, and nothing but Chriſt muſt be held <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p: Every day thy workings, thy ſelf ſufficien<g ref="char:EOLhyphen"/>cy, muſt be deſtroyed. Thou muſt take all out of God's hand, Chriſt he is the gift of God, <hi>Joh.</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.10 Faith the gift of God, <hi>Epheſ.</hi> 3.8 Pardon <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> free gift, <hi>Rom.</hi> 5.16. Ah how Nature ſtorms, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ret's rageth at this, that all is of gift and it can <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urchaſe nothing with its actings and Tears, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears, and duties, that all its workings are ex<g ref="char:EOLhyphen"/>cluded, and of no value in Heaven.</p>
+            <p>If nature had been to contrive the way of Sal<g ref="char:EOLhyphen"/>vation, it would rather have put it into the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands of ſaints or Angels to ſell it, than of Chriſt (who gives freely) whom therefore it ſuſpects; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t would have ſet up a way to purchaſe by do<g ref="char:EOLhyphen"/>ing; therefore it obminates the merits of Chriſt as the moſt deſtructive thing to it, would do any thing to be ſaved, rather than go to Chriſt, or cloſe with Chriſt. Chriſt will have nothing, the ſoul will force ſome what of his own upon Chriſt. here is the great controverſe. Conſi<g ref="char:EOLhyphen"/>der, didſt thou ever ſee the merrits of Chriſt, and the infinite ſatisfaction made by his death? did thou ſee this in a time when the burthen of ſin, and the wrath of God lay heavy upon thy Conſcience. That is grace. The greatneſs of Chriſt's Merits is not known, but to a poor ſoul at the greateſt loſs. Slight convictions, will but have ſlight low prizings of Chriſt's Blood and merits. Deſpairing ſinner; Thou art looking <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thy right hand, and thy left, ſaying, <hi>Who will ſhew us any good?</hi> Thou art tumbling over all thy duties and profeſſions, to patch up a righteouſ<g ref="char:EOLhyphen"/>neſs
+<pb n="10" facs="tcp:43109:7"/>to ſave thee. Miſerable comforters are all thoſe to thee. Look at Chriſt now. Look to him, and be ſaved, all the ends of the earth, <hi>Iſa.</hi> 45.22. There is none elſe. He is a Saviour, and their is none beſides him, <hi>ver.</hi> 21. look any where elſe, and thou art undone; God will look at nothing but Chriſt, and thou muſt look at nothing elſe. Chriſt is lifted up on high (as the braſen ſerpent in the wilderneſs (that the ends of the earth, ſinners at the greateſt diſtance, may ſee him and look to wards him. The leaſt ſight of him will be ſaving, the leaſt touch healing to thee, and God intends thou ſhouldſt look on him for he hath ſet him upon a high throne of Glory, in the open view of all poor Sinners. Thou haſt infinite reaſon to look on him, no reaſon at all to look off him. For he is meek and lowly of heart, <hi>Mat.</hi> 11.29. He will do that himſelf Which he requires of his creature, bear with infirmities, <hi>Rom.</hi> 15.1. not pleaſing himſelf, not ſtanding upon points of Law, <hi>ver.</hi> 2. He will reſtore with the ſpirit of meekneſs, <hi>Gal.</hi> 6.1. And bare thy burdens, <hi>ver.</hi> 22. He Will forgive, not only until ſeven times, but ſe<g ref="char:EOLhyphen"/>venty times ſeven, <hi>Mat.</hi> 18.21.22. It put the Faith of the apoſtles to it, to believe this, <hi>Luz.</hi> 17.4.5. Becauſe we are hard to forgive, we think Chriſt is hard. We ſee ſin great, we think Chriſt doth ſo too, and meaſure infinite love with our line, infinite merits, with our ſins, which is the greateſt Pride and Blaſphemy <hi>Pſa.</hi> 103.11.12. <hi>Iſa</hi> 40.15. Hear what he ſaith, I have found a ranſom, <hi>Job.</hi> 33 24. In him I am well pleaſed, <hi>Mat.</hi> 3.17. God will have nothing elſe; nothing elſe will do thee good or ſatisfy conſcience, but Chriſt who ſatisfied the Father, God doth all upon the account of
+<pb n="11" facs="tcp:43109:7"/>Chriſt thy deſerts are hell, Wrath, rejections. Chriſts deſerts, are life pardon, and acception. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will only ſhew thee the one, but he will give <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee the other. Its Chriſt's own glory and hap<g ref="char:EOLhyphen"/>pneſs to pardon. Conſider, whileſt Chriſt was <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon the earth, he was more among Publicans <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſinners than Scribes and phariſees, his pro<g ref="char:EOLhyphen"/>feſſed adverſaries; for they were righteous <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es. It is not ſo as thou imagineſt, that his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate in glory, makes him neglectful, ſcornful <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poor ſinners; no he hath the ſame heart now <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heaven, he is God, and changeth not, He <hi>is <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Lamb of God that taketh a way the ſins of the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orld, John</hi> 1.29. He hath gon through all thy <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emptations, dejections, ſorrows, deſertions. <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jections, <hi>Mat.</hi> 4.3 to 12. <hi>Mark.</hi> 15.14. <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uke</hi> 22.44. <hi>Mat.</hi> 26.38. And hath drunk <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e bittereſt of the cup, and left thee the ſweet; <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e condemnation is out, Chriſt drunk up all the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thers wrath at one draught, and nothing but <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lvation is left for the; thou ſay'ſt, thou canſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot believe, thou canſt not repent, fitter to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, fitter for Chriſt if thou haſt nothing but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and miſery, go to Chriſt with all thy impe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itency, and unbelief, to get faith and repen<g ref="char:EOLhyphen"/>tance with, from him; that is glorious. Tell Chriſt, <hi>Lord, I have brought no righteouſneſs, no <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>race to be accepted in, juſtified by; I am come <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thine, and muſt have it.</hi> We would be bring<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g to Chriſt, and that muſt not be; not a penny <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nature's higheſt improvement will paſs in hea<g ref="char:EOLhyphen"/>ven. Grace will not ſtand with works. <hi>Tit,</hi> 3.</p>
+            <p>
+               <hi>Rom.</hi> 11.6. That is a terrible point to na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re; which cannot think of being ſtript of all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having a rag of duty, or righteouſneſs leſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> look at. Self-righteouſneſs, ſelf-ſufficiency, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the darlings of nature, which ſhe preſerves
+<pb n="12" facs="tcp:43109:8"/>as her life: That makes Chriſt ſuch an ugly thing to nature, nature cannot deſire him; he is juſt directly oppoſite to all nature's glorious intereſts. Let nature but make a goſpel, and it would make it contrary to Chriſt. It would be to the juſt, the innocent, the holy, the righ<g ref="char:EOLhyphen"/>teous, &amp;c. Chriſt hath made the goſpel for thee, that is, to needy ſinners, the ungodly, the un<g ref="char:EOLhyphen"/>righteous, the unjuſt, the accurſed. Nature cannot endure to think the goſpel is only for ſinners, it will rather chuſe to deſpair, than to go to Chriſt upon ſuch terrible terms. When nature is but put to it by guilt or wrath, it will to its old haunts of ſelf-righteouſneſs, ſelf-good<g ref="char:EOLhyphen"/>neſs, &amp;c. And infinite power muſt caſt down thoſe ſtrong holds. None but the ſelf Juſtici<g ref="char:EOLhyphen"/>ary ſtands excluded out of the goſpel; Chriſt will look at the moſt abominable ſinner, before him, becauſe to ſuch an one Chriſt cannot be made juſtification: He is no ſinner To ſay in complement, I am a ſinner; is eaſy; b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to pray with the Publican indeed, Lord be merciful to me a ſinner, is the hardeſt prayer in the world. It is eaſy to ſay, I believe in Chriſt; but to ſee Chriſt full of grace and truth, Of whoſe fulneſs thou may'ſt receive grace for grace. That is ſaving. Its eaſy to profeſs Chriſt with the mouth; but to confeſs him with the heart, as <hi>Peter, (to be the Chriſt, the Son of the living God, the alone Mediator)</hi> that's above fleſh and blood. Many call Chriſt Saviour, few know him ſo. To ſee grace and ſalvation in Chriſt, is the greateſt ſight in the world; none can do that, but at the ſame time they ſhall ſee that grace to be theirs. Sights will cauſe applicati<g ref="char:EOLhyphen"/>ons. I may be aſhamed to think, that in the midſt of ſo much profeſsion, yet I have known
+<pb n="13" facs="tcp:43109:8"/>little of the blood of Chriſt, which is the main thing of the Goſpel. A Chriſtleſs, formal pro<g ref="char:EOLhyphen"/>feſſion will be the blackeſt ſight next to hell that can be. Thou mayſt have many good things, and yet <hi>one</hi> thing be wanting, that may make <hi>thee</hi> go away ſorrowful from Chriſt. Thou haſt ne<g ref="char:EOLhyphen"/>ver ſold all thou haſt, never parted with all thine own righteouſneſs, &amp;c. Thou mayſt be high in duty, yet a perfect enemy and adverſary to Chriſt in every prayer, in every ordinance. Labour after ſanctification to thy utmoſt, but make not a Chriſt of it to ſave thee; if ſo, it muſt come down one way or other. Chriſt's infinite ſa<g ref="char:EOLhyphen"/>tisfaction not thy ſanctification, muſt be thy juſ<g ref="char:EOLhyphen"/>tification before God. When the Lord ſhall ap<g ref="char:EOLhyphen"/>pear terrible out of his holy places, Fire ſhall conſume all that as Hay and Stubble.</p>
+            <p>This will be found Religion only, To bottom all upon the everlaſting mountains of Gods love and grace in Chriſt, to live continually in the fight of Chriſts infinite righteouſneſs, and merits (they are ſanctifying, without them the heart is carnal) and in thoſe ſights to ſee the full vile<g ref="char:EOLhyphen"/>neſs, yet littleneſs of Sin, and to ſee all pardon<g ref="char:EOLhyphen"/>ed; In thoſe ſights, to pray, hear, be baptized, &amp;c. Seeing thy polluted ſelf, and all thy weak performances continually; in thoſe ſights to trample upon allthy ſelf-glories, righteouſneſſes priviledges as abominable, and be ſound conti<g ref="char:EOLhyphen"/>nually in the righteouſneſs of Chriſt only, re<g ref="char:EOLhyphen"/>joycing in the ruins of all thy own righteouſneſs the ſpoiling of all thy own excellencies, that Chriſt alone, as Mediator, may be exalted in his throne, mourning over all thy duties how (glo<g ref="char:EOLhyphen"/>rious ſoever) that thou haſt not performed in the ſight and fenſe of Chriſt's love. Without the blood of Chriſt on the Conſciences all are <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d ſervices, <hi>Heb.</hi> 9.14.
+<pb n="14" facs="tcp:43109:9"/>opinion of Free will ſo cry'd up, will be eaſily confuted as it is by the Scripture in thy heart who hath had any ſpiritual dealings with Chriſt, as to the application of his merits, and ſubjecti<g ref="char:EOLhyphen"/>on to his righteouſneſs. Chriſt is every way too magnificent a Perſon for poor nature to cloſe withal, or apprehend. Chriſt is ſo infinite ho<g ref="char:EOLhyphen"/>ly, nature durſt never look at him; ſo infinite<g ref="char:EOLhyphen"/>ly good, nature can never believe him to be ſuch, when it lies under full ſights of Sin. Chriſt is too high and glorious for nature ſo much as to touch. There muſt be a divine love firſt put into the ſoul to make it lay hold on him, he lays ſo infi<g ref="char:EOLhyphen"/>nitely beyond the ſight or reach of nature.</p>
+            <p>That Chriſt that natural Free-will can appre<g ref="char:EOLhyphen"/>hend, is but a natural Chriſt of man's own mak<g ref="char:EOLhyphen"/>ing, not the fathers Chriſt, not Jeſus the Son of the living God, to whom none can come with<g ref="char:EOLhyphen"/>out the Father's drawing, <hi>John,</hi> 6.44.46. Fi<g ref="char:EOLhyphen"/>nally; Search the Scriptures daily, as mines of Gold, wherein the heart of Chriſt is laid. Watch againſt conſtitution ſins, ſee them in their vile<g ref="char:EOLhyphen"/>neſs, and they will never break out into act. Keep always an humble, empty, broken frame of heart; ſenſible of any ſpiritual miſcarriage, obſervant of all inward workings, fit for the higheſt communications. Keep not guilt in the conſcience, but apply the blood of Chriſt imme<g ref="char:EOLhyphen"/>diately. God chargeth ſin and guilt upon thee to make thee look to Chriſt the braſen Serpent.</p>
+            <p>Judge not Chriſt's love by evidences, but by promiſes. Bleſs God for ſhaking off falſe foun<g ref="char:EOLhyphen"/>dations, for any way whereby he keeps the ſoul awakened, and looking after Chriſt: better ſickneſs, temptations, than ſecurity and ſlightneſs.</p>
+            <p>A ſlighty ſpirit will turn a prophane ſpirit, and will ſin and pray too. Slightineſs is the bane of Profeſſion, if it be not Rooted out of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:43109:9"/>Heart, by conſtant and ſerious dealings with and beholding of <hi>Chriſt</hi> in Duties, it will grow more ſtrong and more deadly, by being under <hi>Church Ordinances.</hi> Meaſure not thy Graces by others attainments, but by Scripture-trials. Be ſerious, exact in Duty, having the weight of it upon the Heart; but be as much afraid of taking comfort from duties, as from Sins-Com<g ref="char:EOLhyphen"/>fort from any hand but <hi>Chriſt</hi> is deadly. Be<g ref="char:EOLhyphen"/>much in Prayer, or you will never keep up much <hi>Communion</hi> with <hi>God.</hi> As you are in <hi>Cloſet-Prayer,</hi> ſo you will be in all other Ordi<g ref="char:EOLhyphen"/>nances.</p>
+            <p>Reckon not duties by high Expreſſion, but by low frames, and the beholdings of Chriſt. Tremble at duties and gifts. It was the ſaying of a Saint, He was more afraid of his duties, than his ſins; the one often made him proud, the other always made him humble. Treaſure up manifeſtations, they make the heart low for Chriſt, too high for ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n. Slight not the loweſt, meaneſt evidences of Grace. God may put thee to make uſe of the loweſt, as thou think'ſt; even that 1 <hi>Job.</hi> 3.14. That may be wrath a thouſand worlds to thee. Be true to truth, but not turbulent and ſcornful. Reſtore ſuch as are ſallen. Help them up a gain with all the bowels of Chriſt. Set the broken diſ-jointed bones with the grace of the Goſpel. High pro<g ref="char:EOLhyphen"/>feſſors, deſpiſe not weak Saints. Thou mayſt come to wiſh to be in the condition of the meaneſt of them. Be faithful to others infirmi<g ref="char:EOLhyphen"/>ties, but ſenſible of thy one. Viſit ſick beds, and deſerted Souls much; they're excellent ſchools of experiences. Abide in your calling, be duti<g ref="char:EOLhyphen"/>ful to all relations, as to the Lord, Be content with little of the world: little willſerve. Think
+<pb n="16" facs="tcp:43109:10"/>every little of earth much, becauſe unworthy of the leaſt. Think much of Heaven too little, becauſe Chriſt is ſo rich and free. Think every one better than thy ſelf, and carry ever ſelf-loathing about thee, as one fit to be trampled upon by all the ſaints. See the vanity of the world, and the conſumption that is upon all things, and love nothing but Chriſt. Mourn to ſee ſo little of Chriſt in the world, ſo ſew needing him. Trifles pleaſeth them better. To a ſecure ſoul, Chriſt is but a Fable, the ſcriptures but a ſtory. Mourn to think, how many under baptiſm, church-order, that are not under Grace looking much after duty, obedience, little after Chriſt, little verſed in Grace. Prepare for the Croſs, welcome it, bear it triumphantly like Chriſt's croſs, whether ſcoffs, mockings, jeers, contempts, impriſonments, &amp;c: But ſee it be Chriſt's croſs, not thine own. Sin will hinder from glorying in the croſs of Chriſt. Omiting little truths againſt light may breed hell in the conſcience, as well as omitting the greateſt Sin againſt light. If thou haſt been taken out of the belly of hell, into Chriſt's boſome, and made to ſit among Princes in the houſhold of God: O how ſhouldſt thou live as a pattern of Mercy redeemed, reſtored ſoul, what infinite ſums, doſt thou owe Chriſt? With what ſingular frames muſt thou walk in, and do every duty? Sabbaths, what praiſing days, ſinging of halelujahs ſhould they be to thee? church-fellow-ſhip, what a heaven, a being with Chriſt, and Angels, and Saints? Baptiſm, what a drowning the ſoul in e<g ref="char:EOLhyphen"/>ternal love, as a burial with Chriſt, dying to al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things beſides him: Every time thou thinkeſt on Chriſt be aſtoniſhed, and wonder; and whe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou ſeeſt ſin, look at Chriſt's Grace, that d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pardon it; and when thou art Proud, look <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:43109:10"/>Chriſt's Grace, that ſhall humble and ſtrike the down in the duſt. Remember Chriſt's time of love when thou waſt naked, <hi>Ezek.</hi> 16.8.9. and then he choſethee. Canſt thou ever have aproud thought; remember whoſe arms ſupported thee from ſinking, and delivered thee from the low<g ref="char:EOLhyphen"/>eſt hell, (Pſal. 86.13.) and ſhout in the ears of Angels and Men, Pſal. 148. ſing for ever praiſe Grace. Daily Repent, and Believe and Pray; and walk in the ſight of grace as one that hath the anointings of grace upon thee. Remember thy Sins, Chriſt's pardonings; thy deſerts, his Merits; thy weakneſs, Chriſt's ſtrength, thy pride, Chriſt's humility; thy many infirmities Chriſt's reſtorings: thy guilt, Chriſt's newap<g ref="char:EOLhyphen"/>plications of his Blood; thy failings, Chriſt's raiſings up; thy ſlightineſs, Chriſt's ſufferings thy want, Chriſt's fulneſs; thy Temptations, Chriſt's Tenderneſs; thy vileneſs, Chriſt's righteouſneſs.</p>
+            <p>Bleſſed Soul! whom God ſhall find not ha<g ref="char:EOLhyphen"/>ving on his own righteouſneſs, <hi>Phil.</hi> 3.6. but having his robes waſht and made white in the blood of the Lamb, <hi>Rev.</hi> 7.14. Woful, miſe<g ref="char:EOLhyphen"/>rable Profeſſor! that hath not the goſpel with<g ref="char:EOLhyphen"/>in, reſt not in Church-tryal, thou may'ſt paſs that, and be a caſt away in Chriſt's day of try<g ref="char:EOLhyphen"/>al. Thou mayſt come to Baptiſm, and never come to Jeſus, and the Blood of ſprinkling, <hi>Heb.</hi> 12.24. Whatever workings or attain<g ref="char:EOLhyphen"/>ments come not up to clear diſtinct apprehen<g ref="char:EOLhyphen"/>ſions of Chriſt's blood, merits, righteouſneſs, (the main object of the Goſpel) falls ſhort of the Goſpel, and leaves the Soul in a condition of Doubtings and Queſtionings, and Doubt<g ref="char:EOLhyphen"/>ings (if not lookt unto betimes) will turn to
+<pb n="18" facs="tcp:43109:11"/>rightineſs of Spirit, one of the moſt danger<g ref="char:EOLhyphen"/>ous Frames. Trifle not with ordinances. Be much in Meditation and Prayer. Wait dili<g ref="char:EOLhyphen"/>gently on all hearing opportunities. We had need of Doctrin, Reproof, Exhortation, Con<g ref="char:EOLhyphen"/>ſolation, as the tender Herbs and the Graſs hath of the Rain, the Dew, the ſmall Rain, and the Showers, <hi>Deut.</hi> 32.3. Do all thou doſt as Soul work, as unto Chriſt, <hi>Zach.</hi> 7.5, 6. As immediately dealing with Chriſt Jeſus, as if he were looking on thee, and thou on him, and ſetch all thy Strength from him.</p>
+            <p>Obſerve what holy Motions you find in your Soul to Duties. Prize the leaſt motion that is from a ſight of Chriſt the leaſt good thought thou haſt of Chriſt, the leaſt good word thou ſpeakeſt of them, ſincerely from the Heart, is rich Mercy, O bleſs God from it. Obſerve of every day you have the Day ſpring from on high (with his Morning Dews of mourning for Sin) conſtantly viſiting, <hi>Luk.</hi> 1.17. the bright Morning-Star (with freſh influences of Grace and Peace) conſtantly ariſing, <hi>Rev.</hi> 22.16. And Chriſt ſweetly greeting the Soul in all Duties. What Duty makes not more ſpi<g ref="char:EOLhyphen"/>ritual, will make more carnal, what doth not quicken and humble, will deaden and harden.</p>
+            <p>
+               <hi>Judas</hi> may have the Sop, the outward privi<g ref="char:EOLhyphen"/>ledge of Baptiſm, Supper, Church-Fellowſhip, <hi>&amp;c.</hi> But <hi>John</hi> leaned on Chriſt's Boſome, <hi>John</hi> 15.23. That's the Goſpel-ordinance poſture, in which we ſhould pray, and hear, and perform all Duties. Nothing but lying in that Boſome, will diſſolve hardneſs of heart, and make thee to mourn kindly for ſin and cure Slightineſs and Ordinarineſs of Spirit, (that Gangrene in Profeſſion) that will hum<g ref="char:EOLhyphen"/>ble
+<pb n="19" facs="tcp:43109:11"/>indeed, and make the Soul Cordial to Chriſt, and Sin Vile to the Soul, yea, trans<g ref="char:EOLhyphen"/>form the uglieſt piece of Hell, into the Glory <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Chriſt. Never think thou art right as thou ſhouldſt be, a Chriſtian of any glorious attain<g ref="char:EOLhyphen"/>ment, until thou come to this, always to ſee <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd feel thy ſelf lying in the Boſome of Chriſt, who is in the Boſome of the Father, <hi>Job.</hi> 1. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. Come and move the Father for Sights of Chriſt, and you ſhall be ſure to ſpeed: You <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an come with no Requeſt that pleaſeth him <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter. He gave him out of his own Boſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or that very end, to be held up before the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes of all Sinners, as the Everlaſting Monu<g ref="char:EOLhyphen"/>ment of his Father's Love.</p>
+            <p>Looking at the natural Sun, weakeneth the Eye. The more you look at Chriſt the Sun of Righteouſneſs, the Stronger and clearer will the Eye of Faith be. Look but at Chriſt, you will Love him, and Live on him. Think on him continually, keep the Eye conſtantly upon Chriſt's Blood, or every Blaſt of Tem<g ref="char:EOLhyphen"/>ptation will ſhake you. If you will ſee Sin's Sinfulneſs, to hate it and Mourn, do not ſtand looking upon Sin, but look upon Chriſt firſt, as Suffering and Satisfying. If you would ſee your Graces, your Sanctifications, do not ſtand gazing upon them, but look at Chriſts Righte<g ref="char:EOLhyphen"/>ouſneſs in the firſt place (ſee the Sun and you ſee all) then look at your Graces in the ſecond.</p>
+            <p>When you act Faith, what you firſt look at, that you expect Settlement from, and make it the bottom of your Hope. Go to Chriſt in ſights of thy ſin and miſery, not of thy grace and holineſs. Have nothing to do with thy graces and Sanctification, they will but vail
+<pb n="20" facs="tcp:43109:12"/>Chriſt, till thou haſt ſeen Chriſt firſt. He that looks upon Chriſt thro his Graces, is like one that ſee the Sun in Water, which wavereth and moves as the Water doth. Look upon Chriſt only as ſhining in the Firmament of the Fathers Love and Grace, you will not ſee him but in his own glory which is unſpeakable. Pride and unbelief will put you upon ſeeing ſomewhat in your ſelf firſt; but Faith will have to do with none but Chriſt, who is un<g ref="char:EOLhyphen"/>expreſſibly glorious, and muſt ſwallow up thy Sanctification, as well as thy ſin; for God made him both for us, and we muſt make him both, 1 <hi>Cor.</hi> 1.30. 2 <hi>Cor.</hi> 5.21. He that ſets up his Sanctification to look at, to com<g ref="char:EOLhyphen"/>fort him, he ſets up the greateſt Idol which will ſtrengthen his doubts and ſears. Do but look off Chriſt, and preſently (like <hi>Peter</hi>) you ſin.</p>
+            <p>A Chriſtian never wants comfort, but by break<g ref="char:EOLhyphen"/>ing the order and method of the Goſpel, look<g ref="char:EOLhyphen"/>ing his own, and looking off Chriſt's perfect righ<g ref="char:EOLhyphen"/>teouſneſs, which is to chuſe to live rather by candle-light, than by the light of the ſun. The honey that you ſuck from your own righte<g ref="char:EOLhyphen"/>ouſneſs, will turn into perfect gall, and the light that you take from that to walk in, will turn into black night upon the Soul. Satan is tempting thee by putting thee to plod about thy own graces, to get comfort from them, then the Father comes, and points thee to Chriſt's Grace, as rich and glorious, infinite<g ref="char:EOLhyphen"/>ly pleaſing him, and bid thou Study Chriſt's Righteouſneſs (and his biddings are enabl<g ref="char:EOLhyphen"/>ings) that's a bleſſed Motion, a ſweet whiſper<g ref="char:EOLhyphen"/>ing, checking thy unbelief, follow the leaſt hint, cloſe with much Prayer, prize it as an
+<pb n="21" facs="tcp:43109:12"/>unvaluable Jewel: Its an earneſt of more <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come. Again, if you would Pray and cannot, and ſo are diſcouraged. See Chriſt Praying for you, uſing his intereſt with the Father for you. What can you Want? <hi>John,</hi> 14. and <hi>chap.</hi> 17. If you be troubled, ſee Chriſt your Peace, Eph 2.14. leaving you Peace, when he went up to Heaven, again and again, charging you not to be troubled, no not in the leaſt ſin<g ref="char:EOLhyphen"/>fully troubled, ſo as to obſtruct thy comfort, or thy believing, <hi>John,</hi> 14.1.27. He is now upon the throne, having ſpoiled upon his croſs, in the loweſt ſtate of his Humiliation, all what<g ref="char:EOLhyphen"/>ſoever can hurt or annoy thee. He hath born all thy Sins, ſorrows, ſears, diſgraces, ſickneſſes, troubles, temptations, and is gone to prepare manſions for thee. Thou who haſt ſeen Chriſt all, and thy ſelf nothing, who makes Chriſt thy life, and art dead to all righteouſneſs beſides, thou art the Chriſtian who hath ſound ſavour with God. Favorite of Heaven, do Chriſt this Favour for all his Love, love his ſaints and churches, the meaneſt, the weakeſt, notwith<g ref="char:EOLhyphen"/>ſtanding difference in Judgment, they are en<g ref="char:EOLhyphen"/>graven on his Heart, as the Names of the chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrae,</hi> on <hi>Aaron</hi>'s Breſt-plate. <hi>Exod.</hi> 24.21. Let them be ſo on thine. Pray for the Peace of <hi>Jeruſalem,</hi> they ſhall proſper that love Her, <hi>Pſam.</hi> 122.6.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
